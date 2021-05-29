@@ -20,6 +20,7 @@
     "gatsby": "^3.4.1",
     "gatsby-plugin-emotion": "^6.5.0",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "react-feather": "^2.0.9"
   }
 }
